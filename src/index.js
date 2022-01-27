@@ -1,5 +1,6 @@
 // Disable eslint do not modify native methods
 /* eslint-disable no-extend-native */
+// add comment for testing purpose
 
 String.prototype.isQuestion = function isQuestion() {
   // Returns true if the last letter of the input string a question mark. False otherwise
